@@ -3,7 +3,7 @@
 * This assignment is based on HYDRA config, all the configs for the models are in the config folder.
 * Sample how a model using GroupNorm is initialized
 
-<img src="image/README/1675057272743.png" width="50%" height="50%">
+    <img src="image/README/1675057272743.png" width="50%" height="50%">
 
 * Likewise, we've config for initializing the datamodule, trainer, logger, and callbacks.
 
